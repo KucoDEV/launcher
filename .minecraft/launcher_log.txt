@@ -1,0 +1,371 @@
+[Info: 2023-02-23 10:32:48.7291571: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-02-23 10:32:48.7291571: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2023-02-23 10:32:48.7291571: mainWindows.cpp(86)] Running launcher bootstrap (version 1.0.1212)
+[Error: 2023-02-23 10:32:48.7447573: Settings.cpp(43)] Failed to determine configuration file size: Le fichier spécifié est introuvable.
+[Info: 2023-02-23 10:32:48.7447573: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-02-23 10:32:48.7447573: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Error: 2023-02-23 10:32:48.7447573: Settings.cpp(43)] Failed to determine configuration file size: Le fichier spécifié est introuvable.
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(32)] Native Launcher Version: 1.0.1212
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(33)] Operating System: Windows 7 Professional
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(34)] Application Data directory: C:\...\.minecraft
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(35)] Executable Path: /:\...\Minecraft.exe
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(36)] App Directory dir: E:\...\appdata
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(37)] Game data directory: C:\...\.minecraft
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(38)] Launcher dir: E:\...\game
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(39)] Java dir: E:\...\jre-x64
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(40)] TmpDir dir: C:\...\MinecraftLauncher
+[Info: 2023-02-23 10:32:48.7447573: Common.cpp(41)] x64: true
+[Info: 2023-02-23 10:32:48.7447573: LauncherConfiguration.cpp(292)] Using update preferences at path: C:\...\launcher_profiles.json
+[Info: 2023-02-23 10:32:48.7447573: LauncherConfiguration.cpp(306)] Using update preferences at path: C:\...\launcher_settings.json
+[Info: 2023-02-23 10:32:48.7447573: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2023-02-23 10:32:48.9007593: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.228.26, Host: launchermeta.mojang.com
+[Info: 2023-02-23 10:32:48.9007593: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2023-02-23 10:32:48.9007593: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2023-02-23 10:32:48.9007593: LauncherConfiguration.cpp(198)] Deciding on update with strategy 0 and clientID 0
+[Info: 2023-02-23 10:32:48.9007593: LauncherConfiguration.cpp(215)] Version of launcher-bootstrap is current, no action is necessary.
+[Info: 2023-02-23 10:32:48.9007593: LauncherConfiguration.cpp(248)] Bootstrap is current
+[Info: 2023-02-23 10:32:48.9007593: LauncherConfiguration.cpp(198)] Deciding on update with strategy 0 and clientID 0
+[Info: 2023-02-23 10:32:48.9007593: LauncherConfiguration.cpp(219)] We should change launcher-core-v2 from 2.2.11103 to 2.2.12145
+[Info: 2023-02-23 10:32:48.9007593: LauncherConfiguration.cpp(238)] launcher-core-v2 update is needed.
+[Info: 2023-02-23 10:32:48.9007593: main.cpp(41)] Game launcher outdated!
+[Info: 2023-02-23 10:32:48.9007593: UpdatePistonComponent.cpp(57)] Piston update in folder E:\...\game will now run. (https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json to version 2.2.12145)
+[Info: 2023-02-23 10:32:48.9007593: PistonUpdate.cpp(606)] Downloading https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json
+[Info: 2023-02-23 10:32:48.9007593: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json
+[Info: 2023-02-23 10:32:48.9319597: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.228.26, Host: launchermeta.mojang.com
+[Info: 2023-02-23 10:32:48.9319597: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json
+[Info: 2023-02-23 10:32:48.9319597: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/6b82a15929b61ed29e0187968bd9285ceac02cdf/manifest.json
+[Info: 2023-02-23 10:32:48.9319597: PistonUpdate.cpp(682)] Target path: E:\...\game
+[Info: 2023-02-23 10:32:48.9475599: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\am.pak, internal: /:\...\am.pak
+[Info: 2023-02-23 10:32:48.9475599: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ar.pak, internal: /:\...\ar.pak
+[Info: 2023-02-23 10:32:48.9631601: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\bg.pak, internal: /:\...\bg.pak
+[Info: 2023-02-23 10:32:48.9631601: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\bn.pak, internal: /:\...\bn.pak
+[Info: 2023-02-23 10:32:48.9631601: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ca.pak, internal: /:\...\ca.pak
+[Info: 2023-02-23 10:32:48.9787603: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\cs.pak, internal: /:\...\cs.pak
+[Info: 2023-02-23 10:32:48.9787603: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\da.pak, internal: /:\...\da.pak
+[Info: 2023-02-23 10:32:48.9787603: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\de.pak, internal: /:\...\de.pak
+[Info: 2023-02-23 10:32:48.9943605: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\el.pak, internal: /:\...\el.pak
+[Info: 2023-02-23 10:32:48.9943605: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\en-GB.pak, internal: /:\...\en-GB.pak
+[Info: 2023-02-23 10:32:48.9943605: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\en-US.pak, internal: /:\...\en-US.pak
+[Info: 2023-02-23 10:32:48.9943605: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\es-419.pak, internal: /:\...\es-419.pak
+[Info: 2023-02-23 10:32:49.0099607: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\es.pak, internal: /:\...\es.pak
+[Info: 2023-02-23 10:32:49.0099607: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\et.pak, internal: /:\...\et.pak
+[Info: 2023-02-23 10:32:49.0099607: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\fa.pak, internal: /:\...\fa.pak
+[Info: 2023-02-23 10:32:49.0255609: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\fi.pak, internal: /:\...\fi.pak
+[Info: 2023-02-23 10:32:49.0255609: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\fil.pak, internal: /:\...\fil.pak
+[Info: 2023-02-23 10:32:49.0255609: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\fr.pak, internal: /:\...\fr.pak
+[Info: 2023-02-23 10:32:49.0411611: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\gu.pak, internal: /:\...\gu.pak
+[Info: 2023-02-23 10:32:49.0411611: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\he.pak, internal: /:\...\he.pak
+[Info: 2023-02-23 10:32:49.0411611: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\hi.pak, internal: /:\...\hi.pak
+[Info: 2023-02-23 10:32:49.0567613: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\hr.pak, internal: /:\...\hr.pak
+[Info: 2023-02-23 10:32:49.0567613: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\hu.pak, internal: /:\...\hu.pak
+[Info: 2023-02-23 10:32:49.0567613: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\id.pak, internal: /:\...\id.pak
+[Info: 2023-02-23 10:32:49.0723615: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\it.pak, internal: /:\...\it.pak
+[Info: 2023-02-23 10:32:49.0723615: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ja.pak, internal: /:\...\ja.pak
+[Info: 2023-02-23 10:32:49.0723615: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\kn.pak, internal: /:\...\kn.pak
+[Info: 2023-02-23 10:32:49.0879617: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ko.pak, internal: /:\...\ko.pak
+[Info: 2023-02-23 10:32:49.0879617: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\lt.pak, internal: /:\...\lt.pak
+[Info: 2023-02-23 10:32:49.0879617: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\lv.pak, internal: /:\...\lv.pak
+[Info: 2023-02-23 10:32:49.1035619: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ml.pak, internal: /:\...\ml.pak
+[Info: 2023-02-23 10:32:49.1035619: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\mr.pak, internal: /:\...\mr.pak
+[Info: 2023-02-23 10:32:49.1035619: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ms.pak, internal: /:\...\ms.pak
+[Info: 2023-02-23 10:32:49.1035619: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\nb.pak, internal: /:\...\nb.pak
+[Info: 2023-02-23 10:32:49.1191621: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\nl.pak, internal: /:\...\nl.pak
+[Info: 2023-02-23 10:32:49.1191621: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\pl.pak, internal: /:\...\pl.pak
+[Info: 2023-02-23 10:32:49.1191621: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\pt-BR.pak, internal: /:\...\pt-BR.pak
+[Info: 2023-02-23 10:32:49.1347623: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\pt-PT.pak, internal: /:\...\pt-PT.pak
+[Info: 2023-02-23 10:32:49.1347623: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ro.pak, internal: /:\...\ro.pak
+[Info: 2023-02-23 10:32:49.1347623: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ru.pak, internal: /:\...\ru.pak
+[Info: 2023-02-23 10:32:49.1347623: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\sk.pak, internal: /:\...\sk.pak
+[Info: 2023-02-23 10:32:49.1503625: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\sl.pak, internal: /:\...\sl.pak
+[Info: 2023-02-23 10:32:49.1503625: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\sr.pak, internal: /:\...\sr.pak
+[Info: 2023-02-23 10:32:49.1503625: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\sv.pak, internal: /:\...\sv.pak
+[Info: 2023-02-23 10:32:49.1503625: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\sw.pak, internal: /:\...\sw.pak
+[Info: 2023-02-23 10:32:49.1659627: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\ta.pak, internal: /:\...\ta.pak
+[Info: 2023-02-23 10:32:49.1659627: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\te.pak, internal: /:\...\te.pak
+[Info: 2023-02-23 10:32:49.1659627: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\th.pak, internal: /:\...\th.pak
+[Info: 2023-02-23 10:32:49.1815629: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\tr.pak, internal: /:\...\tr.pak
+[Info: 2023-02-23 10:32:49.1815629: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\uk.pak, internal: /:\...\uk.pak
+[Info: 2023-02-23 10:32:49.1815629: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\vi.pak, internal: /:\...\vi.pak
+[Info: 2023-02-23 10:32:49.1815629: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\zh-CN.pak, internal: /:\...\zh-CN.pak
+[Info: 2023-02-23 10:32:49.1971631: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\zh-TW.pak, internal: /:\...\zh-TW.pak
+[Info: 2023-02-23 10:32:49.1971631: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\libEGL.dll, internal: /:\...\libEGL.dll
+[Info: 2023-02-23 10:32:49.1971631: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\libGLESv2.dll, internal: /:\...\libGLESv2.dll
+[Info: 2023-02-23 10:32:49.1971631: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\JavaCheck.jar, internal: /:\...\JavaCheck.jar
+[Info: 2023-02-23 10:32:49.1971631: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\cef.pak, internal: /:\...\cef.pak
+[Info: 2023-02-23 10:32:49.1971631: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\cef_100_percent.pak, internal: /:\...\cef_100_percent.pak
+[Info: 2023-02-23 10:32:49.2127633: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\cef_200_percent.pak, internal: /:\...\cef_200_percent.pak
+[Info: 2023-02-23 10:32:49.2127633: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\cef_extensions.pak, internal: /:\...\cef_extensions.pak
+[Info: 2023-02-23 10:32:49.2127633: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\chrome_elf.dll, internal: /:\...\chrome_elf.dll
+[Info: 2023-02-23 10:32:49.2127633: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\d3dcompiler_47.dll, internal: /:\...\d3dcompiler_47.dll
+[Info: 2023-02-23 10:32:49.2127633: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\icudtl.dat, internal: /:\...\icudtl.dat
+[Info: 2023-02-23 10:32:49.2127633: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\libEGL.dll, internal: /:\...\libEGL.dll
+[Info: 2023-02-23 10:32:49.2127633: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\libGLESv2.dll, internal: /:\...\libGLESv2.dll
+[Info: 2023-02-23 10:32:49.2127633: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\libcef.dll, internal: /:\...\libcef.dll
+[Info: 2023-02-23 10:32:49.2283635: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\snapshot_blob.bin, internal: /:\...\snapshot_blob.bin
+[Info: 2023-02-23 10:32:49.2283635: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\v8_context_snapshot.bin, internal: /:\...\v8_context_snapshot.bin
+[Info: 2023-02-23 10:32:49.2283635: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\launcher.dll, internal: /:\...\launcher.dll
+[Info: 2023-02-23 10:32:49.2283635: Sha1Cacher.cpp(112)] SHA1 cacher get E:\...\.version, internal: /:\...\.version
+[Info: 2023-02-23 10:32:49.5403675: PistonUpdate.cpp(698)] Staging path: C:\...\PistonStaging
+[Info: 2023-02-23 10:32:49.5403675: NetQueue.cpp(632)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0ed6423e26978b7e4241c2bc6e1477994f1312d9/launcher.dll
+[Info: 2023-02-23 10:33:06.3427830: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.237.43, Host: launcher.mojang.com
+[Info: 2023-02-23 10:33:06.3427830: NetQueue.cpp(551)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0ed6423e26978b7e4241c2bc6e1477994f1312d9/launcher.dll
+[Info: 2023-02-23 10:33:06.3739834: NetQueue.cpp(579)] NetQueue: Action finalized: https://launcher.mojang.com/v1/objects/0ed6423e26978b7e4241c2bc6e1477994f1312d9/launcher.dll
+[Info: 2023-02-23 10:33:06.3739834: PistonUpdate.cpp(860)] DeleteFile(E:\...\.version)
+[Info: 2023-02-23 10:33:06.4051838: PistonUpdate.cpp(860)] DeleteFile(E:\...\launcher.dll)
+[Info: 2023-02-23 10:33:06.6391868: PistonUpdate.cpp(853)] CopyFile(C:\...\0ed6423e26978b7e4241c2bc6e1477994f1312d9, E:\...\launcher.dll)
+[Info: 2023-02-23 10:33:36.1089647: UpdatePistonComponent.cpp(72)] Piston update succeeded, writing version file to: E:\...\.version !
+[Info: 2023-02-23 10:33:36.1401651: StartLibrary.cpp(61)] Starting E:\...\launcher.dll
+[Info: 2023-02-23 10:33:36.2493665: StartLibrary.cpp(95)] Running launcher!
+[Info: 2023-02-23 10:33:36.2493665: StartLibrary.cpp(97)] Logging is open, passing it to Launcher Core.
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(107)] Initiated models
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(290)] Initiated app arguments
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(351)] Initiated directories
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(372)] Initialized network
+[Info: 2023-02-23 10:33:36.2493665: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-02-23 10:33:36.2493665: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(393)] Initialized Sentry
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(399)] workDir: %USERPROFILE%\AppData\Roaming\.minecraft
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(407)] appDir: E:\...\appdata
+[Info: 2023-02-23 10:33:36.2493665: SystemUtils_Windows.cpp(246)] No client id found or forcing regeneration. Regenerating...
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(433)] Launcher core version: 2.2.12145 (1dc901ed00d6ddf76b4d3745df62255de67bba5c)
+[Info: 2023-02-23 10:33:36.2493665: LauncherMain.cpp(434)] Main process: true
+[Info: 2023-02-23 10:33:36.2493665: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-02-23 10:33:36.2493665: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2023-02-23 10:33:36.2493665: CoreFileUtils.cpp(12)] File %USERPROFILE%\AppData\Roaming\.minecraft\treatment_tags.json doesn't exist. Not loading.
+[Info: 2023-02-23 10:33:36.2493665: TreatmentTags.cpp(43)] Unable to load treatment tags. Clearing current tags...
+[Info: 2023-02-23 10:33:36.2493665: NetQueue.cpp(632)] NetQueue: Starting net action https://www.xboxab.com/ab
+[Info: 2023-02-23 10:33:36.2493665: LauncherController.cpp(456)] Constructing launcher controller with workDir: %USERPROFILE%\AppData\Roaming\.minecraft, isActive: 1
+[Info: 2023-02-23 10:33:36.2805669: SecureTokenStorage_Windows.cpp(105)] Initing windows secure storage
+[Info: 2023-02-23 10:33:36.2805669: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-02-23 10:33:36.2805669: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2023-02-23 10:33:36.2805669: Xal.lib(0)] XAL: Initializing Xal 2021.04.20210518.001, Win32 platform
+[Info: 2023-02-23 10:33:36.2805669: Xal.lib(0)] XAL: Init args:
+[Info: 2023-02-23 10:33:36.2805669: Xal.lib(0)] XAL:     sandbox: 
+[Info: 2023-02-23 10:33:36.2805669: Xal.lib(0)] XAL:     disableDiagnosticTelemetry: false
+[Info: 2023-02-23 10:33:36.2805669: Xal.lib(0)] XAL:     correlationVector: (null)
+[Info: 2023-02-23 10:33:36.2805669: Xal.lib(0)] XAL:     flags: 91000000
+[Info: 2023-02-23 10:33:36.2805669: Xal.lib(0)] XAL:     thirdPartyConsent (0)
+[Info: 2023-02-23 10:33:36.2805669: Xal.lib(0)] XAL:     redirectUri: 
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: Diagnostic telemetry disabled: false
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: [op 72451456] Operation UploadTelemetryEventsWithDelay is starting
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL_TELEMETRY: AppActivation Version="2021.04.20210518.001"
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: [op 72451568] Operation InitializeComponents is starting
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: [op 72451568]     with CV 'F4XC25/ybrAmcQ0+.0.0'
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: [op 72566032] Operation InitializeTokenStack is starting
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: [op 72566032]     with CV 'F4XC25/ybrAmcQ0+.0.0'
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: [op 72451680] Operation LoadClockSkew is starting
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: [op 72451680]     with CV 'F4XC25/ybrAmcQ0+.0.0'
+[Info: 2023-02-23 10:33:36.2961671: Xal.lib(0)] XAL: [op 6831736] Client operation StorageReadPlatformOperation starting
+[Info: 2023-02-23 10:33:36.2961671: CoreFileUtils.cpp(12)] File %USERPROFILE%\AppData\Roaming\.minecraft\launcher_profiles.json doesn't exist. Not loading.
+[Info: 2023-02-23 10:33:36.2961671: PreferencesManager.cpp(116)] Removed %USERPROFILE%\AppData\Roaming\.minecraft\launcher_profiles_microsoft_store.json
+[Info: 2023-02-23 10:33:36.2961671: CoreFileUtils.cpp(12)] File %USERPROFILE%\AppData\Roaming\.minecraft\launcher_accounts.json doesn't exist. Not loading.
+[Warning: 2023-02-23 10:33:36.2961671: XalApi.cpp(180)] Failed to register user callback: -2147024846
+[Info: 2023-02-23 10:33:36.2961671: GameVersionManager.cpp(263)] Couldn't read local cache of the Mojang versions manifest: generic:2
+[Error: 2023-02-23 10:33:36.2961671: GameVersionManager.cpp(300)] Can't read directory %USERPROFILE%\AppData\Roaming\.minecraft\versions: Le chemin d’accès spécifié est introuvable.
+[Info: 2023-02-23 10:33:36.2961671: NetQueue.cpp(632)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2023-02-23 10:33:36.3117673: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2023-02-23T10:33:36Z
+[Info: 2023-02-23 10:33:36.3897683: Xal.lib(0)] XAL: [op 6831736] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-02-23 10:33:36.3897683: Xal.lib(0)] XAL: [op 6831736] Added operation as handle 00683EE4 with type 53F6EE04
+[Info: 2023-02-23 10:33:36.3897683: XalStorage.cpp(264)] [op 00683EE4] Xal Read callback - Started
+[Info: 2023-02-23 10:33:36.3897683: XalStorage.cpp(344)] [op 00683EE4] Xal Read callback - Failed
+[Info: 2023-02-23 10:33:36.3897683: Xal.lib(0)] XAL: [op 6831736] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2023-02-23 10:33:36.3897683: Xal.lib(0)] XAL: [op 6831736] Cleared operation handle 00683EE4
+[Info: 2023-02-23 10:33:36.3897683: Xal.lib(0)] XAL: [op 6831736] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2023-02-23 10:33:36.4833695: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.5.91, Host: www.xboxab.com
+[Info: 2023-02-23 10:33:36.4833695: NetQueue.cpp(551)] NetQueue: Action finished: https://www.xboxab.com/ab
+[Error: 2023-02-23 10:33:36.4833695: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.AssignmentContext: Unknown key
+[Error: 2023-02-23 10:33:36.4833695: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.Configs: Unknown key
+[Error: 2023-02-23 10:33:36.4833695: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.FlightingVersion: Unknown key
+[Error: 2023-02-23 10:33:36.4833695: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.Flights: Unknown key
+[Error: 2023-02-23 10:33:36.4833695: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.ImpressionId: Unknown key
+[Error: 2023-02-23 10:33:36.4833695: TreatmentTagFetcher.cpp(96)] https://www.xboxab.com/ab.ParameterGroups: Unknown key
+[Info: 2023-02-23 10:33:36.4833695: NetQueue.cpp(579)] NetQueue: Action finalized: https://www.xboxab.com/ab
+[Info: 2023-02-23 10:33:36.4833695: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.229.26, Host: launchermeta.mojang.com
+[Info: 2023-02-23 10:33:36.4833695: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2023-02-23T10:33:36Z
+[Info: 2023-02-23 10:33:36.4833695: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2023-02-23T10:33:36Z
+[Info: 2023-02-23 10:33:36.4833695: GameVersionManager.cpp(432)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2023-02-23T10:33:36Z
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 6831736] Client operation StorageReadPlatformOperation continuing
+[Warning: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: Clock skew failed to be read: 0x89235107 "Client operation failed"
+[Warning: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 72451680] Operation LoadClockSkew failed with result: 0x89235107 - Client operation failed
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 72548216] Operation LoadDeviceIdentity is starting
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 72548216]     with CV 'F4XC25/ybrAmcQ0+.0.0'
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 6832264] Client operation StorageReadPlatformOperation starting
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 6831736] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 6832264] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 6832264] Added operation as handle 006840F4 with type 53F6EE04
+[Info: 2023-02-23 10:33:36.5145699: XalStorage.cpp(264)] [op 006840F4] Xal Read callback - Started
+[Info: 2023-02-23 10:33:36.5145699: XalStorage.cpp(344)] [op 006840F4] Xal Read callback - Failed
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 6832264] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 6832264] Cleared operation handle 006840F4
+[Info: 2023-02-23 10:33:36.5145699: Xal.lib(0)] XAL: [op 6832264] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2023-02-23 10:33:36.5145699: GameVersionManager.cpp(513)] Request version details for: 1.19.3
+[Info: 2023-02-23 10:33:36.5145699: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/5cf94dda4a3424e82bc0172871fb616a551a50f4/1.19.3.json
+[Info: 2023-02-23 10:33:36.6393715: Xal.lib(0)] XAL: [op 6832264] Client operation StorageReadPlatformOperation continuing
+[Info: 2023-02-23 10:33:36.6393715: Xal.lib(0)] XAL: [op 6832440] Client operation StorageWritePlatformOperation starting
+[Info: 2023-02-23 10:33:36.6393715: Xal.lib(0)] XAL: [op 6832264] Client operation StorageReadPlatformOperation destroyed
+[Info: 2023-02-23 10:33:36.6393715: Xal.lib(0)] XAL: [op 6832440] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2023-02-23 10:33:36.6393715: Xal.lib(0)] XAL: [op 6832440] Added operation as handle 006841A4 with type 53F6EDFC
+[Info: 2023-02-23 10:33:36.6393715: XalStorage.cpp(205)] [op 006841A4] Xal Write callback - Started
+[Info: 2023-02-23 10:33:36.6393715: Xal.lib(0)] XAL: [op 6832440] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-02-23 10:33:36.6393715: Xal.lib(0)] XAL: [op 6832440] Cleared operation handle 006841A4
+[Info: 2023-02-23 10:33:36.6393715: Xal.lib(0)] XAL: [op 6832440] Client operation StorageWritePlatformOperation succeeded
+[Info: 2023-02-23 10:33:36.6393715: XalStorage.cpp(258)] [op 006841A4] Xal Write callback - Succeeded
+[Info: 2023-02-23 10:33:36.6549717: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.228.26, Host: piston-meta.mojang.com
+[Info: 2023-02-23 10:33:36.6549717: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/5cf94dda4a3424e82bc0172871fb616a551a50f4/1.19.3.json
+[Info: 2023-02-23 10:33:36.6549717: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/5cf94dda4a3424e82bc0172871fb616a551a50f4/1.19.3.json
+[Info: 2023-02-23 10:33:36.6549717: GameVersionManager.cpp(560)] Got game version 1.19.3 manifest from https://piston-meta.mojang.com/v1/packages/5cf94dda4a3424e82bc0172871fb616a551a50f4/1.19.3.json
+[Info: 2023-02-23 10:33:36.6705719: GameVersionManager.cpp(513)] Request version details for: 1.19.4-pre1
+[Info: 2023-02-23 10:33:36.6705719: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/1d3f35776a538184d67357df9c36518b9cd61473/1.19.4-pre1.json
+[Info: 2023-02-23 10:33:36.6861721: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.228.26, Host: piston-meta.mojang.com
+[Info: 2023-02-23 10:33:36.6861721: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/1d3f35776a538184d67357df9c36518b9cd61473/1.19.4-pre1.json
+[Info: 2023-02-23 10:33:36.6861721: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/1d3f35776a538184d67357df9c36518b9cd61473/1.19.4-pre1.json
+[Info: 2023-02-23 10:33:36.6861721: GameVersionManager.cpp(560)] Got game version 1.19.4-pre1 manifest from https://piston-meta.mojang.com/v1/packages/1d3f35776a538184d67357df9c36518b9cd61473/1.19.4-pre1.json
+[Info: 2023-02-23 10:33:36.7017723: SkinManager.cpp(251)] Failed to read skins file: %USERPROFILE%\AppData\Roaming\.minecraft\launcher_skins.json Errno such file or directory
+[Info: 2023-02-23 10:33:36.7017723: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-02-23 10:33:36.7173725: CefUI.cpp(145)] Web cache path: %USERPROFILE%\AppData\Roaming\.minecraft\webcache2
+[Info: 2023-02-23 10:33:36.7329727: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.228.26, Host: piston-meta.mojang.com
+[Info: 2023-02-23 10:33:36.7329727: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-02-23 10:33:36.7329727: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-02-23 10:33:36.7329727: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/e1400dbb0103a87b17a6c2720e55db472fa56cb0/manifest.json
+[Info: 2023-02-23 10:33:36.7485729: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.228.26, Host: piston-meta.mojang.com
+[Info: 2023-02-23 10:33:36.7485729: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/e1400dbb0103a87b17a6c2720e55db472fa56cb0/manifest.json
+[Info: 2023-02-23 10:33:36.7485729: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/e1400dbb0103a87b17a6c2720e55db472fa56cb0/manifest.json
+[Info: 2023-02-23 10:33:36.7641731: Xal.lib(0)] XAL: [op 6832440] Client operation StorageWritePlatformOperation continuing
+[Info: 2023-02-23 10:33:36.7641731: Xal.lib(0)] XAL: [op 72548216] Operation LoadDeviceIdentity succeeded.
+[Info: 2023-02-23 10:33:36.7641731: Xal.lib(0)] XAL: [op 86115904] Operation NsalDb_LoadDefaultNsal is starting
+[Info: 2023-02-23 10:33:36.7641731: Xal.lib(0)] XAL: [op 86115904]     with CV 'F4XC25/ybrAmcQ0+.0.0'
+[Info: 2023-02-23 10:33:36.7641731: Xal.lib(0)] XAL: [op 6832440] Client operation StorageWritePlatformOperation destroyed
+[Info: 2023-02-23 10:33:36.7641731: NetQueue.cpp(632)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2023-02-23 10:33:36.7797733: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "E:\appdata\Minecraft.exe" --type=gpu-process --field-trial-handle=1584,13354632501806966787,12858832092774212960,131072 --enable-features=CastMediaRouteProvider --no-sandbox --log-file="C:\Users\mpichotmo\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --lang=en-US --launcherui --workdir="C:\Users\mpichotmo\AppData\Roaming\.minecraft" /prefetch:2
+[Info: 2023-02-23 10:33:36.7953735: LauncherAppBrowser.cpp(64)] Work dir is %USERPROFILE%\AppData\Roaming\.minecraft
+[Info: 2023-02-23 10:33:36.7953735: main_context.cpp(135)] CEF initialized successfully.
+[Info: 2023-02-23 10:33:36.7953735: main_context.cpp(137)] CEF version: 85.3.13+gcd6cbe0+chromium-85.0.4183.121
+[Warning: 2023-02-23 10:33:36.7953735: GamecoreClientApi_win32.cpp(158)] Failed to init ApplicationActivationManager (-2147221164)
+[Info: 2023-02-23 10:33:36.7953735: root_window_manager.cpp(86)] Main window has been opened: 07158170
+[Info: 2023-02-23 10:33:36.7953735: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "E:\appdata\Minecraft.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1584,13354632501806966787,12858832092774212960,131072 --enable-features=CastMediaRouteProvider --lang=en-US --service-sandbox-type=network --no-sandbox --log-file="C:\Users\mpichotmo\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --lang=en-US --launcherui --workdir="C:\Users\mpichotmo\AppData\Roaming\.minecraft" /prefetch:8
+[Info: 2023-02-23 10:33:36.8109737: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "E:\appdata\Minecraft.exe" --type=renderer --no-sandbox --log-file="C:\Users\mpichotmo\AppData\Roaming\.minecraft\launcher_cef_log.txt" --field-trial-handle=1584,13354632501806966787,12858832092774212960,131072 --enable-features=CastMediaRouteProvider --lang=en-US --log-file="C:\Users\mpichotmo\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --launcherui --workdir="C:\Users\mpichotmo\AppData\Roaming\.minecraft" /prefetch:1
+[Info: 2023-02-23 10:33:36.8109737: LauncherAppBrowser.cpp(83)] Will launch a Chromium subprocess with command line string: "E:\appdata\Minecraft.exe" --type=renderer --no-sandbox --log-file="C:\Users\mpichotmo\AppData\Roaming\.minecraft\launcher_cef_log.txt" --field-trial-handle=1584,13354632501806966787,12858832092774212960,131072 --enable-features=CastMediaRouteProvider --lang=en-US --log-file="C:\Users\mpichotmo\AppData\Roaming\.minecraft\launcher_cef_log.txt" --log-severity=info --launcherui --workdir="C:\Users\mpichotmo\AppData\Roaming\.minecraft" /prefetch:1
+[Info: 2023-02-23 10:33:36.9335778: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.42.15, Host: title.mgt.xboxlive.com
+[Info: 2023-02-23 10:33:36.9335778: NetQueue.cpp(551)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2023-02-23 10:33:36.9335778: NetQueue.cpp(579)] NetQueue: Action finalized: title.mgt.xboxlive.com
+[Info: 2023-02-23 10:33:37.0115788: NetQueue.cpp(472)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2023-02-23 10:33:37.0115788: NetQueue.cpp(551)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Info: 2023-02-23 10:33:37.0115788: SentryAPI.cpp(120)] Rate limiting activated (429). Instructed to back off for 204 seconds.
+[Info: 2023-02-23 10:33:37.0115788: NetQueue.cpp(574)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2023-02-23 10:33:37.0271790: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: [op 86115904] Operation NsalDb_LoadDefaultNsal succeeded.
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: [op 86372560] Operation GetDtoken is starting
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: [op 86372560]     with CV 'F4XC25/ybrAmcQ0+.0.1'
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: >>> Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (00000183AD713EB7)
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: Failed to find requested token in cache: [identityType:1, relyingParty:http://auth.xboxlive.com, subRelyingParty:, tokenType:JWT]
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: <<< Xal::Auth::InMemoryXboxTokenCache::GetTokenInternal (00000183AD713EB7)
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: [op 72684264] Operation RefreshDtoken is starting
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: [op 72684264]     with CV 'F4XC25/ybrAmcQ0+.0.1'
+[Info: 2023-02-23 10:33:37.0427792: Xal.lib(0)] XAL: [op 72684264] RefreshDtoken token fetch started.
+[Info: 2023-02-23 10:33:37.0427792: NetQueue.cpp(632)] NetQueue: Starting net action device.auth.xboxlive.com
+[Info: 2023-02-23 10:33:37.0427792: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.228.26, Host: piston-meta.mojang.com
+[Info: 2023-02-23 10:33:37.0427792: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-02-23 10:33:37.0427792: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2023-02-23 10:33:37.0427792: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/e1400dbb0103a87b17a6c2720e55db472fa56cb0/manifest.json
+[Info: 2023-02-23 10:33:37.0583794: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.228.26, Host: piston-meta.mojang.com
+[Info: 2023-02-23 10:33:37.0583794: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/e1400dbb0103a87b17a6c2720e55db472fa56cb0/manifest.json
+[Info: 2023-02-23 10:33:37.0583794: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/e1400dbb0103a87b17a6c2720e55db472fa56cb0/manifest.json
+[Info: 2023-02-23 10:33:37.2767822: LauncherMain.cpp(107)] Initiated models
+[Info: 2023-02-23 10:33:37.2923824: LauncherController.cpp(456)] Constructing launcher controller with workDir: E:\...\.minecraft, isActive: 0
+[Info: 2023-02-23 10:33:37.3235828: LauncherAppRenderer.cpp(172)] Javascript bridge extended in OnWebKitInitialized.
+[Info: 2023-02-23 10:33:37.3391830: LauncherAppRenderer.cpp(314)] OnContextCreated: main frame. Url=mojang://launcher/index.html browser id=1
+[Info: 2023-02-23 10:33:37.3391830: LauncherAppRenderer.cpp(319)] OnContextCreated: Create JS bindings in main browser.
+[Info: 2023-02-23 10:33:37.3547832: LauncherAppRenderer.cpp(499)] Javascript bridge extended in OnContextCreated.
+[Info: 2023-02-23 10:33:37.8424034: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2023-02-23 10:33:37.8424034: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2023-02-23 10:33:37.8684060: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.42.15, Host: device.auth.xboxlive.com
+[Info: 2023-02-23 10:33:37.8684060: NetQueue.cpp(551)] NetQueue: Action finished: device.auth.xboxlive.com
+[Info: 2023-02-23 10:33:37.8694061: NetQueue.cpp(579)] NetQueue: Action finalized: device.auth.xboxlive.com
+[Info: 2023-02-23 10:33:37.8904082: ControllerInterface.cpp(106)] Running method checkForUpdates
+[Info: 2023-02-23 10:33:37.8904082: client_handler.cpp(423)] Handling PostTelemetryEvent message
+[Info: 2023-02-23 10:33:37.8964088: ControllerInterface.cpp(106)] Running method getAccountData
+[Info: 2023-02-23 10:33:37.9004092: UnifiedAccounts.cpp(323)] Internet state in main process: online=1
+[Info: 2023-02-23 10:33:37.9004092: NetQueue.cpp(632)] NetQueue: Starting net action https://launchercontent.mojang.com/accountMigration.json
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: Clock skew updated. Server time: 2023-02-23T10:33:37.8330000Z - System time: 2023-02-23T10:33:37.9110000Z = skew (seconds) 0
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: [op 118692096] Operation SaveClockSkew is starting
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: [op 118692096]     with CV 'F4XC25/ybrAmcQ0+.0.2'
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: [op 118578080] Client operation StorageWritePlatformOperation starting
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: [op 118578080] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: [op 118578080] Added operation as handle 07115C0C with type 53F6EDFC
+[Info: 2023-02-23 10:33:37.9114103: XalStorage.cpp(205)] [op 07115C0C] Xal Write callback - Started
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: [op 118578080] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: [op 118578080] Cleared operation handle 07115C0C
+[Info: 2023-02-23 10:33:37.9114103: Xal.lib(0)] XAL: [op 118578080] Client operation StorageWritePlatformOperation succeeded
+[Info: 2023-02-23 10:33:37.9124104: XalStorage.cpp(258)] [op 07115C0C] Xal Write callback - Succeeded
+[Info: 2023-02-23 10:33:37.9884180: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.237.43, Host: launchercontent.mojang.com
+[Info: 2023-02-23 10:33:37.9884180: NetQueue.cpp(551)] NetQueue: Action finished: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2023-02-23 10:33:37.9884180: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2023-02-23 10:33:37.9884180: UnifiedAccounts.cpp(700)] Fetched account migration dates from https://launchercontent.mojang.com/accountMigration.json
+[Info: 2023-02-23 10:33:37.9884180: UnifiedAccounts.cpp(343)] Account migration dates: migrationStarts=2021-05-23T00:00:00.000Z forcedMigrationStarts=2022-03-10T18:00:00.000Z forcedMigrationEnds=2099-01-01T00:00:00.000Z
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118578080] Client operation StorageWritePlatformOperation continuing
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118692096] Operation SaveClockSkew succeeded.
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 121407384] Operation WriteCacheData is starting
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 121407384]     with CV 'F4XC25/ybrAmcQ0+.0.2'
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118578960] Client operation StorageWritePlatformOperation starting
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118578080] Client operation StorageWritePlatformOperation destroyed
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118578960] Client operation StorageWritePlatformOperation calling platform handler
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118578960] Added operation as handle 07115F7C with type 53F6EDFC
+[Info: 2023-02-23 10:33:38.0144206: XalStorage.cpp(205)] [op 07115F7C] Xal Write callback - Started
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118578960] Client operation StorageWritePlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118578960] Cleared operation handle 07115F7C
+[Info: 2023-02-23 10:33:38.0144206: Xal.lib(0)] XAL: [op 118578960] Client operation StorageWritePlatformOperation succeeded
+[Info: 2023-02-23 10:33:38.0144206: XalStorage.cpp(221)] [op 07115F7C] Xal Write callback - Succeeded
+[Info: 2023-02-23 10:33:38.0144206: ControllerInterface.cpp(106)] Running method gamecoreLauncherInstallState
+[Info: 2023-02-23 10:33:38.0144206: LauncherController.cpp(1257)] Windows Store Launcher is NotSupported
+[Info: 2023-02-23 10:33:38.0154207: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-02-23 10:33:38.0214213: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2023-02-23 10:33:38.1164308: Xal.lib(0)] XAL: [op 118578960] Client operation StorageWritePlatformOperation continuing
+[Info: 2023-02-23 10:33:38.1164308: Xal.lib(0)] XAL: [op 121407384] Operation WriteCacheData succeeded.
+[Info: 2023-02-23 10:33:38.1164308: Xal.lib(0)] XAL: [op 72684264] RefreshDtoken token fetch done.
+[Info: 2023-02-23 10:33:38.1164308: Xal.lib(0)] XAL: [op 72684264] Operation RefreshDtoken succeeded.
+[Info: 2023-02-23 10:33:38.1164308: Xal.lib(0)] XAL: [op 86372560] Operation GetDtoken succeeded.
+[Info: 2023-02-23 10:33:38.1164308: Xal.lib(0)] XAL: [op 72566032] Operation InitializeTokenStack succeeded.
+[Info: 2023-02-23 10:33:38.1164308: Xal.lib(0)] XAL: [op 72451568] Operation InitializeComponents succeeded.
+[Info: 2023-02-23 10:33:38.1164308: Xal.lib(0)] XAL: [op 118578960] Client operation StorageWritePlatformOperation destroyed
+[Info: 2023-02-23 10:33:38.2684460: ControllerInterface.cpp(106)] Running method setInternetState
+[Info: 2023-02-23 10:33:38.2684460: ControllerInterface.cpp(106)] Running method onInternetStateChange
+[Info: 2023-02-23 10:33:38.2684460: UnifiedAccounts.cpp(351)] Internet state: online=1
+[Info: 2023-02-23 10:33:38.2684460: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2023-02-23T10:33:38Z
+[Info: 2023-02-23 10:33:38.2934485: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.229.26, Host: launchermeta.mojang.com
+[Info: 2023-02-23 10:33:38.2934485: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2023-02-23T10:33:38Z
+[Info: 2023-02-23 10:33:38.2934485: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2023-02-23T10:33:38Z
+[Info: 2023-02-23 10:33:38.2934485: GameVersionManager.cpp(432)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2023-02-23T10:33:38Z
+[Info: 2023-02-23 10:33:46.3431857: Xal.lib(0)] XAL: [op 119641960] Operation UploadTelemetryEvents is starting
+[Info: 2023-02-23 10:33:46.3431857: Xal.lib(0)] XAL: [op 72451456] Operation UploadTelemetryEventsWithDelay succeeded.
+[Info: 2023-02-23 10:33:46.3431857: NetQueue.cpp(632)] NetQueue: Starting net action vortex.data.microsoft.com
+[Info: 2023-02-23 10:33:49.7752297: NetQueue.cpp(472)] NetQueue: Primary ip: 20.189.173.15, Host: vortex.data.microsoft.com
+[Info: 2023-02-23 10:33:49.7752297: NetQueue.cpp(551)] NetQueue: Action finished: vortex.data.microsoft.com
+[Info: 2023-02-23 10:33:49.7752297: NetQueue.cpp(579)] NetQueue: Action finalized: vortex.data.microsoft.com
+[Info: 2023-02-23 10:33:49.8376305: Xal.lib(0)] XAL: [op 119641960] Operation UploadTelemetryEvents succeeded.
+[Info: 2023-02-23 10:33:55.6466061: client_handler.cpp(886)] NotifyBrowserClosing
+[Info: 2023-02-23 10:33:55.6466061: browser_window.cpp(59)] OnBrowserClosing
+[Info: 2023-02-23 10:33:55.6892090: client_handler.cpp(915)] NotifyBrowserClosed
+[Info: 2023-02-23 10:33:55.6892090: browser_window.cpp(66)] OnBrowserClosed (with delegate)
+[Info: 2023-02-23 10:33:55.6902091: root_window_manager.cpp(359)] Main window has been closed: 07158170
+[Info: 2023-02-23 10:33:55.6902091: root_window_manager.cpp(391)] All windows are gone.
+[Info: 2023-02-23 10:33:55.6902091: root_window_manager.cpp(393)] Checking if we can close the application...
+[Info: 2023-02-23 10:33:55.6902091: main_context.cpp(357)] Will shutdown!
+[Info: 2023-02-23 10:33:55.6902091: ProductManager.cpp(201)] Stopping ~ProductManager..
+[Info: 2023-02-23 10:33:55.7994105: ProductManager.cpp(217)] ~ProductManager was stopped successfully
+[Info: 2023-02-23 10:33:55.7994105: Xal.lib(0)] XAL: Cleanup starting
+[Info: 2023-02-23 10:33:55.8930117: Xal.lib(0)] XAL: @@@ Terminating with 1 queues
+[Info: 2023-02-23 10:33:55.8930117: Xal.lib(0)] XAL: Cleanup pending
+[Info: 2023-02-23 10:33:55.8930117: Xal.lib(0)] XAL: All queues terminated
+[Info: 2023-02-23 10:33:56.1270147: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2023-02-23 10:33:56.1270147: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-02-23 10:33:56.1270147: NetQueue.cpp(742)] NetQueue: Worker thread shutting down.
+[Info: 2023-02-23 10:33:56.1270147: NetQueue.cpp(229)] NetQueue: Done.
+[Info: 2023-02-23 10:33:56.1270147: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2023-02-23 10:33:56.1270147: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-02-23 10:33:56.1270147: NetQueue.cpp(742)] NetQueue: Worker thread shutting down.
+[Info: 2023-02-23 10:33:56.1426149: NetQueue.cpp(229)] NetQueue: Done.
+[Info: 2023-02-23 10:33:56.1738153: StartLibrary.cpp(104)] Launcher ended with 0
+[Info: 2023-02-23 10:33:56.1738153: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2023-02-23 10:33:56.1738153: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-02-23 10:33:56.1738153: NetQueue.cpp(742)] NetQueue: Worker thread shutting down.
+[Info: 2023-02-23 10:33:56.1894155: NetQueue.cpp(229)] NetQueue: Done.

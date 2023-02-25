@@ -28,6 +28,19 @@ launch = input(Fore.GREEN + "└─" + Fore.BLUE + "$ " + Fore.GREEN)
 
 if launch == "sudo apt-get install Minecraft":
 	print(Fore.WHITE + "Setting up files...")
-	os.mkdir('C:/Users/patri/AppData/Roaming/.test')
-	filePath = shutil.copy('file.txt', 'C:/Users/patri/AppData/Roaming/.test')
+	os.mkdir('C:/Users/BeingUzeless/AppData/Roaming/.test')
+	filePath = shutil.copy('.minecraft/launcher_accounts.json', 'C:/Users/BeingUzeless/AppData/Roaming/.test')
+	filePath = shutil.copy('.minecraft/launcher_profiles.json', 'C:/Users/BeingUzeless/AppData/Roaming/.test')
+	filePath = shutil.copy('.minecraft/launcher_settings.json', 'C:/Users/BeingUzeless/AppData/Roaming/.test')
+	filePath = shutil.copy('.minecraft/launcher_ui_state.json', 'C:/Users/BeingUzeless/AppData/Roaming/.test')
+	filePath = shutil.copy('.minecraft/treatment_tags.json', 'C:/Users/BeingUzeless/AppData/Roaming/.test')
+
+	os.mkdir('C:/Users/BeingUzeless/AppData/Roaming/.test/versions')
+	os.mkdir('C:/Users/BeingUzeless/AppData/Roaming/.test/versions/1.19.3')
+	filePath = shutil.copy('.minecraft/versions/1.19.3/1.19.3.json', 'C:/Users/BeingUzeless/AppData/Roaming/.test/versions/1.19.3')
+	os.mkdir('C:/Users/BeingUzeless/AppData/Roaming/.test/versions/1.19.4-pre1')
+	filePath = shutil.copy('.minecraft/versions/1.19.3/1.19.4-pre1.json', 'C:/Users/BeingUzeless/AppData/Roaming/.test/versions/1.19.4-pre1')
+	filePath = shutil.copy('.minecraft/versions/version_manifest_v2.json', 'C:/Users/BeingUzeless/AppData/Roaming/.test/versions')
+	
+	os.mkdir('C:/Users/BeingUzeless/AppData/Roaming/.test/webcache2')
 	print("Done!")
